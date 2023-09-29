@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pheyishayor001
 - 👀 I’m interested in: Software Development.
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me: contact me on; pheyishayor001@gmail.com
 
