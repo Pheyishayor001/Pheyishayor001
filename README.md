@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pheyishayor001
-- 👀 I’m interested in: Software Development.
+- 👀 I’m interested in: DevOps Engineering.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me: contact me on; pheyishayor001@gmail.com
 
